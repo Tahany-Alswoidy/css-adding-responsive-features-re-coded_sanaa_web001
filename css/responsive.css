@@ -30,5 +30,7 @@
   }
 }
 @media only screen and (max-length:750px){
-  
+  #navbar nav a{
+    font-size:0.9em;
+  }
 }
